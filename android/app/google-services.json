@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "867564345134",
+    "project_id": "npochkrynotes",
+    "storage_bucket": "npochkrynotes.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:867564345134:android:e00d39805743cf35e28cbf",
+        "android_client_info": {
+          "package_name": "com.example.npochkry"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "867564345134-8k20r0090uhdm1qo8cbqqjg73p4opu1o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBtrstPbijzSQ5-8OxBImwNhfucpQsSvCM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "867564345134-8k20r0090uhdm1qo8cbqqjg73p4opu1o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

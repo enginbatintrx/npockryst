@@ -1,0 +1,18 @@
+{
+  "yourNotes": "Your Notes",
+  "settings": "Settings",
+  "languages": "Languages",
+  "yourLabel": "Your Label",
+  "yourNote": "Your Note",
+  "create": "Create/Edit Your Note",
+  "chooseColor": "Choose Your Color",
+  "chooseText":"Choose Your Text Type",
+  "low": "Low",
+  "high":"High",
+  "veryhigh":"Very High",
+  "remove": "Remove Note",
+  "removetext" :"Are you sure you want to remove this note?",
+  "rbutton": "DELETE",
+  "cbutton": "CANCEL",
+  "dismissed": "Your note dismissed"
+}
